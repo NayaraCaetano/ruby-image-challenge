@@ -1,39 +1,5 @@
 There are/is 0 red points in image
 The full report is: 
-{:rgb=>"19,78,146", :percent=>89.05, :quantity=>392636}
-{:rgb=>"254,254,254", :percent=>6.05, :quantity=>26696}
-{:rgb=>"23,66,124", :percent=>1.46, :quantity=>6422}
-{:rgb=>"234,249,255", :percent=>0.46, :quantity=>2040}
-{:rgb=>"84,110,163", :percent=>0.43, :quantity=>1909}
-{:rgb=>"253,249,239", :percent=>0.39, :quantity=>1715}
-{:rgb=>"19,36,86", :percent=>0.19, :quantity=>849}
-{:rgb=>"88,106,131", :percent=>0.19, :quantity=>836}
-{:rgb=>"117,146,182", :percent=>0.18, :quantity=>782}
-{:rgb=>"80,110,155", :percent=>0.16, :quantity=>703}
-{:rgb=>"192,218,237", :percent=>0.14, :quantity=>637}
-{:rgb=>"232,237,254", :percent=>0.11, :quantity=>499}
-{:rgb=>"108,132,179", :percent=>0.11, :quantity=>486}
-{:rgb=>"242,237,240", :percent=>0.1, :quantity=>427}
-{:rgb=>"200,210,240", :percent=>0.1, :quantity=>425}
-{:rgb=>"200,218,249", :percent=>0.09, :quantity=>396}
-{:rgb=>"153,173,210", :percent=>0.08, :quantity=>350}
-{:rgb=>"217,233,254", :percent=>0.08, :quantity=>350}
-{:rgb=>"124,153,197", :percent=>0.07, :quantity=>329}
-{:rgb=>"88,120,171", :percent=>0.07, :quantity=>317}
-{:rgb=>"211,235,250", :percent=>0.06, :quantity=>273}
-{:rgb=>"169,184,235", :percent=>0.06, :quantity=>272}
-{:rgb=>"175,202,243", :percent=>0.06, :quantity=>270}
-{:rgb=>"177,196,232", :percent=>0.05, :quantity=>222}
-{:rgb=>"101,135,197", :percent=>0.04, :quantity=>194}
-{:rgb=>"173,193,220", :percent=>0.04, :quantity=>191}
-{:rgb=>"118,140,164", :percent=>0.04, :quantity=>177}
-{:rgb=>"126,161,212", :percent=>0.04, :quantity=>175}
-{:rgb=>"204,205,220", :percent=>0.02, :quantity=>107}
-{:rgb=>"149,158,182", :percent=>0.02, :quantity=>81}
-{:rgb=>"188,186,235", :percent=>0.01, :quantity=>66}
-{:rgb=>"184,227,254", :percent=>0.01, :quantity=>64}
-There are/is 0 red points in image
-The full report is: 
 {:rgb=>"19,78,146", :percent=>79.15, :quantity=>348974}
 {:rgb=>"21,77,143", :percent=>5.36, :quantity=>23641}
 {:rgb=>"255,255,255", :percent=>3.66, :quantity=>16153}
