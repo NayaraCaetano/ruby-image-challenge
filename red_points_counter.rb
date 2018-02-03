@@ -4,9 +4,8 @@ require "rmagick"
 
 
 def report_photo_colors()
-  image = Magick::ImageList.new("imagem_desafio.jpeg")
-  q = image.quantize(256, Magick::RGBColorspace)
-  palette = q.color_histogram.sort {|a, b| b[1] <=> a[1]}
+  image = Magick::ImageList.new("imagem_desafio.png")
+  palette = image.color_histogram.sort {|a, b| b[1] <=> a[1]}
   total_depth = image.columns * image.rows
   report = []
 
